@@ -1,3 +1,5 @@
+https://dev.azure.com/marclecharpentier0883/Parts%20Unlimited/_apis/build/status/mlecharpentier.calculator?branchName=master
+
 [![Build Status](https://dev.azure.com/marclecharpentier0883/Parts%20Unlimited/_apis/build/status/mlecharpentier.calculator?branchName=master)](https://dev.azure.com/marclecharpentier0883/Parts%20Unlimited/_build/latest?definitionId=2&branchName=master)
 
 Calculator.js: a node.js Demonstration Project
